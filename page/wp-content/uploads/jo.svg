@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 492 264" width="492" height="264">
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 300px;fill: #ffffff;font-weight: 400;font-family: "Kaher", "Kaher" } 
+	</style>
+	<text id="J" style="transform: matrix(1,0,0,1,3,243)" >
+		<tspan x="0" y="0" class="t0">J</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="O" style="transform: matrix(1,0,0,1,236,249)" >
+		<tspan x="0" y="0" class="t0">O
+</tspan>
+	</text>
+</svg>

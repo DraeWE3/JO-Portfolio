@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:24:09	7309/7309	---M--	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2022%20Oct%202025%2008:35:18%20GMT	https://cappen.com/robots.txt		(from )
+09:24:09	7309/7309	---M--	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2022%20Oct%202025%2008:35:18%20GMT	https://cappen.com/	C:/Users/user/Desktop/C%20Web/iphone%20money/cappen.com/index.html	(from )
+09:24:10	7309/7309	---M--	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2022%20Oct%202025%2008:35:20%20GMT	https://cappen.com/	C:/Users/user/Desktop/C%20Web/iphone%20money/cappen.com/index.html	(from )
+09:24:12	7309/7309	---M--	500	error ('Internal%20Server%20Error')	text/html	date:Wed,%2022%20Oct%202025%2008:35:21%20GMT	https://cappen.com/	C:/Users/user/Desktop/C%20Web/iphone%20money/cappen.com/index.html	(from )
